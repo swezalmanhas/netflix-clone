@@ -101,20 +101,9 @@ Create a `.env` file in the project root directory and add:
 REACT_APP_TMDB_API_KEY=your_api_key_here
 ```
 
----
 
-## 🖼️ **Screenshots**  
 
-✨ **Landing Page:**  
-![Landing Page](https://via.placeholder.com/800x400?text=Landing+Page+Screenshot)  
 
-✨ **Trending Movies:**  
-![Trending Movies](https://via.placeholder.com/800x400?text=Trending+Movies+Screenshot)  
-
-✨ **Trailer Playback:**  
-![Trailer Playback](https://via.placeholder.com/800x400?text=Trailer+Playback+Screenshot)  
-
----
 
 ## ✨ **Key Features in Detail**  
 
